@@ -1,0 +1,13 @@
+User-agent: *
+Disallow: /index
+Disallow: /404
+
+User-agent: Googlebot
+Disallow: /index
+Disallow: /404
+
+User-agent: Yandex
+Disallow: /index
+Disallow: /404
+Host: https://sravni-keshbek.ru/
+Sitemap: https://sravni-keshbek.ru/sitemap.xml
